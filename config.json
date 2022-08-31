@@ -1,0 +1,43 @@
+{
+  "name": "startpage",
+  "version": "0.0.2",
+
+  "pageBG": "#111111",
+  "terminalBG": "#070728",
+  "terminalShadow": "#1d1d3b",
+  "echoColor": "#f3c677",
+  "nameColor": "#b33f62",
+  "openAllColor": "#d3d2c7",
+  "linkColor": "#b33f62",
+  "linkHoverColor": "#f3c677",
+
+  "tildeColor": "#ffffff",
+  "arrowColor": "#d3d2c7",
+  "textColor": "#d3d2c7",
+
+
+  "categories": [
+    {
+      "name": "General",
+      "links": [
+        {"name": "Gmail 1", "link": "https://mail.google.com/mail/u/1/#inbox"}
+      ]
+    },
+    {
+      "name": "Tech",
+      "links": [
+        {"name": "Github", "link": "https://github.com"},
+        {"name": "Hackernews", "link": "http://hckrnews.com/"},
+        {"name": "Dev.to", "link": "http://dev.to/"},
+        {"name": "Medium", "link": "http://medium.com/"},
+        {"name": "Pocket", "link": "https://getpocket.com/"}
+      ]
+    },
+    {
+      "name": "Reddit",
+      "links": [
+        {"name": "Frontpage", "link": "https://www.reddit.com/"}
+      ]
+    }
+  ]
+}

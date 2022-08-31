@@ -1,0 +1,60 @@
+body {
+    margin-top: 5%;
+    background-color: var(--pageBG);
+    background-size: cover;
+}
+
+.section {
+    background-color: var(--terminalBG);
+    opacity: 0.85;
+    padding: 2%;
+    display: inline-block;
+    vertical-align: top;
+    margin:1%;
+    text-align: justify;
+    box-shadow: 5px 5px 5px var(--terminalShadow);
+}
+
+.categories {
+    display: flex;
+    justify-content: center;
+}
+
+.center {
+    text-align: center;
+}
+
+.halfBreak {
+    margin-bottom: 1.5%;
+}
+
+.fullBreak {
+    margin-bottom: 7%;
+}
+
+
+.link {
+    color: var(--linkColor);
+    text-decoration: none;
+}
+
+.link:hover {
+    color: var(--linkHoverColor);
+}
+
+.name {
+    color: var(--nameColor);
+}
+
+.welcome, .links {
+    display: inline-grid;
+    text-align: center;
+    color: var(--textColor);
+    box-shadow: unset !important;
+}
+
+.openAllAnchor {
+    color: var(--openAllColor);
+}
+
+
