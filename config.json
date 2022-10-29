@@ -21,7 +21,7 @@
       "name": "Mail",
       "links": [
         {"name": "Gmail ", "link": "https://mail.google.com/mail/u/1/#inbox"},
-		{"name": "Mail.ru ", "link": "https://e.mail.ru/inbox"}
+	{"name": "Mail.ru ", "link": "https://e.mail.ru/inbox"}
       ]
     },
     {
