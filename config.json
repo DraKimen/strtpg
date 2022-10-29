@@ -1,0 +1,44 @@
+{
+  "name": "startpage",
+  "version": "0.0.2",
+
+  "pageBG": "#111111",
+  "terminalBG": "#070728",
+  "terminalShadow": "#1d1d3b",
+  "echoColor": "#f3c677",
+  "nameColor": "#b33f62",
+  "openAllColor": "#d3d2c7",
+  "linkColor": "#b33f62",
+  "linkHoverColor": "#f3c677",
+
+  "tildeColor": "#ffffff",
+  "arrowColor": "#d3d2c7",
+  "textColor": "#d3d2c7",
+
+
+  "categories": [
+    {
+      "name": "Mail",
+      "links": [
+        {"name": "Gmail ", "link": "https://mail.google.com/mail/u/1/#inbox"},
+		{"name": "Mail.ru ", "link": "https://e.mail.ru/inbox"}
+      ]
+    },
+    {
+      "name": "Tech",
+      "links": [
+        {"name": "Reddit", "link": "https://www.reddit.com/"},
+        {"name": "VK", "link": "https://vk.com/feed"},
+        {"name": "Youtube", "link": "https://www.youtube.com/"},
+        {"name": "Discord", "link": "https://discord.com/channels/@me"},
+        {"name": "Roblox", "link": "https://www.roblox.com/discover#/"}
+      ]
+    },
+    {
+      "name": "Something",
+      "links": [
+        {"name": "Github", "link": "https://github.com"}
+      ]
+    }
+  ]
+}
